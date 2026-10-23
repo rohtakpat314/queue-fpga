@@ -6,4 +6,3 @@ dual BRAM cuckooo table of orders, 8 watches that each store an id, side, price,
 
 message, both banks read in a cycle, record, eight updates, output
 
-## Out of scope
